@@ -1,0 +1,287 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+
+#ixt3cf {
+    text-align: center;
+}
+
+#i0pxnm {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+#injmb {
+    width: 1247px;
+    height: 831px;
+}
+
+#ii35df {
+    text-align: center;
+}
+
+#ibm29n {
+    text-align: justify;
+    font-weight: 900;
+}
+
+#ivwqf4 {
+    text-align: center;
+}
+
+#i43teq {
+    text-align: center;
+}
+
+.logo path {
+    pointer-events: none;
+    fill: none;
+    stroke-linecap: round;
+    stroke-width: 7;
+    stroke: rgb(255, 255, 255);
+}
+
+.wechat-group img {
+    max-width: 220px;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: auto;
+    width: 100%;
+}
+
+.welcome-img img {
+    width: 100%;
+}
+
+.fdb-block img {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.fdb-block img.fdb-icon {
+    width: 60px;
+}
+
+.fdb-block .fdb-touch {
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: rgb(82, 139, 255);
+}
+
+.fdb-block .fdb-box {
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+    color: rgb(68, 68, 68);
+    padding-top: 60px;
+    padding-right: 40px;
+    padding-bottom: 60px;
+    padding-left: 40px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.fdb-block .text-h3, .fdb-block h3 {
+    font-size: 0.875rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block img + h3, .fdb-block img + h4, .fdb-block img + p {
+    margin-top: 20px;
+}
+
+a {
+    color: rgb(0, 123, 255);
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    background-color: transparent;
+}
+
+a:hover {
+    color: rgb(0, 86, 179);
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.col-12.col-md-6 {
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: 900;
+}
+
+.fdb-block .text-h1, .fdb-block h1 {
+    font-size: 1.75rem;
+    margin-bottom: 0.5em;
+    margin-top: 0.3em;
+    font-weight: 400;
+}
+
+.fdb-block .col-fill-right {
+    width: 50%;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-size: cover;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    z-index: 1;
+}
+
+.fdb-block .col-fill-right + div {
+    position: relative;
+    z-index: 2;
+}
+
+.media-icons a {
+    margin-right: 12px;
+}
+
+.row {
+    display: table;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    width: 100%;
+}
+
+.c10301 {
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: 微软雅黑;
+}
+
+.c5913 {
+    width: 1122px;
+    height: 747.8px;
+}
+
+.c20420 {
+    color: black;
+    width: 1037px;
+    text-align: center;
+    height: 437.8px;
+}
+
+.c28365 {
+    font-size: 10.5pt;
+    font-family: "Times New Roman", serif;
+    text-align: justify;
+}
+
+.c29478 {
+    color: black;
+}
+
+.c30110 {
+    height: 561px;
+    width: 985px;
+}
+
+.c26848 {
+    text-align: center;
+}
+
+.c32768 {
+    color: black;
+    width: 1179px;
+    height: 474px;
+    text-align: center;
+}
+
+.c32892 {
+    color: black;
+    text-align: center;
+}
+
+.c10686 {
+    color: black;
+    text-align: center;
+}
+
+.c35223 {
+    text-align: center;
+    position: static;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+}
+
+.icon {
+    text-align: center;
+}
+
+.c14056 {
+    color: black;
+    height: 600px;
+    text-align: center;
+    width: 600px;
+    position: relative;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 3px;
+    margin-bottom: 0px;
+    margin-left: 320px;
+}
+
+.c17188 {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: center;
+}
